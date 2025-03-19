@@ -7,7 +7,7 @@ import datetime
 app = Flask(__name__)
 
 # 🔹 ENTER YOUR GOOGLE GEMINI API KEY BELOW
-GEMINI_API_KEY = "AIzaSyACnJzf-GQbxded4W36BKOoqoHAKr-vo4Q"
+GEMINI_API_KEY = " "
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Log files
